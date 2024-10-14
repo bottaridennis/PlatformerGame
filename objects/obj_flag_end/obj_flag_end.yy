@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oSpike",
+  "%Name":"obj_flag_end",
   "eventList":[],
   "managed":true,
-  "name":"oSpike",
+  "name":"obj_flag_end",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sSpike",
-    "path":"sprites/sSpike/sSpike.yy",
+    "name":"sFlag",
+    "path":"sprites/sFlag/sFlag.yy",
   },
   "spriteMaskId":null,
   "visible":true,
